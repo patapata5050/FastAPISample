@@ -1,4 +1,4 @@
-# 型定義を行うファイル
+# APIリクエストとレスポンスの型を定義するファイル
 from typing import Optional
 from pydantic import BaseModel, Field
 
